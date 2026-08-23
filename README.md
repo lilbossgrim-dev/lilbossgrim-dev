@@ -20,7 +20,7 @@
 <hr>
 
 <h2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
-<img src="https://skillicons.dev/icons?i=python, github" />
+<img src="https://skillicons.dev/icons?i=python,github" />
 
 <hr>
 
