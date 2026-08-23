@@ -43,7 +43,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-<hr2>
+<hr>
 
 <hr2>𝐌𝐲 𝐏𝐡𝐫𝐚𝐬𝐞 𝐛𝐲 𝐔𝐫𝐢𝐞𝐥 ✍️<hr2>
 
