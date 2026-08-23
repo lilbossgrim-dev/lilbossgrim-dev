@@ -43,6 +43,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+<hr2>My Phrase by Uriel<hr2>
+
+<ul>
+  <li>🧠 Learning to program is the best tool for thinking.</li>
+<ul>
+
 <hr>
 
 <h2>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h2>
