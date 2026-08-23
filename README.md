@@ -4,7 +4,7 @@
 <h1 align="center">Hello, i'm Uriel 👋</h1>
 
 <p align="center">
-  <b>👨‍💻 Estudiante de Ingeniería en Software</b> | <b>🚀 Aprendiendo, creando y buscando ser de los mejores</b>
+  <b>👨‍💻 Software Engineering Student</b> | <b>🚀 Learning, creating, and striving to be among the best.</b>
 </p>
 
 <hr>
@@ -12,9 +12,9 @@
 <h2>🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <ul>
-  <li>🎓 En constante aprendizaje y desarrollo en tecnología y programación.</li>
-  <li>💡 Enfocado en mejorar cada día y superar mis propios límites.</li>
-  <li>💻 Apasionado por la tecnología, la programación y la creación de soluciones.</li>
+  <li>🎓 Constantly learning and developing in technology and programming.</li>
+  <li>💡 Focused on improving every day and pushing past my own limits.</li>
+  <li>💻 Passionate about technology, programming, and creating solutions.</li>
 </ul>
 
 <hr>
