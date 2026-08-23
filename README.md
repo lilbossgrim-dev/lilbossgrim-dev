@@ -20,8 +20,7 @@
 <hr>
 
 <h2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=python, github" />
 
 <hr>
 
@@ -45,7 +44,7 @@
 
 <hr>
 
-<hr2>𝐌𝐲 𝐏𝐡𝐫𝐚𝐬𝐞 𝐛𝐲 𝐔𝐫𝐢𝐞𝐥 ✍️</h2>
+<h2>✍️ 𝐌𝐲 𝐏𝐡𝐫𝐚𝐬𝐞 𝐛𝐲 𝐔𝐫𝐢𝐞𝐥</h2>
 
 <ul>
   <li>🧠 Learning to program is the best tool for thinking.</li>
