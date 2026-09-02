@@ -7,18 +7,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png"
-    alt="github 3d icon"
-    height="200"
-  >
-</p>
+<img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 
 <h1 align="center">Hello, i'm Uriel 👋</h1>
 
 <p align="center">
-  <b>👨‍💻 Software Engineering Student</b> |
-  <b>🚀 Learning, creating, and striving to be among the best.</b>
+  <b>👨‍💻 Software Engineering Student</b> | <b>🚀 Learning, creating, and striving to be among the best.</b>
 </p>
 
 <hr>
@@ -34,53 +28,18 @@
 <hr>
 
 <h2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=python,php,github"
-    alt="Programming Languages"
-  >
-</p>
+<img src="https://skillicons.dev/icons?i=python,php,github" />
 
 <hr>
 
 <h2>💻 𝐈𝐃𝐄</h2>
 
 <p>
-  <img
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"
-    width="48"
-    height="48"
-    alt="Visual Studio Code"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"
-    width="48"
-    height="48"
-    alt="IntelliJ IDEA"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/phpstorm.png"
-    width="48"
-    height="48"
-    alt="PhpStorm"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png"
-    width="48"
-    height="48"
-    alt="Apache NetBeans"
-  >
-
-  <img
-    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png"
-    width="48"
-    height="48"
-    alt="Sublime Text"
-  >
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="48" height="48" alt="Visual Studio Code">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="48" height="48" alt="IntelliJ IDEA">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/phpstorm.png" width="48" height="48" alt="PhpStorm">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" width="48" height="48" alt="Apache NetBeans">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" width="48" height="48" alt="Sublime Text">
 </p>
 
 <hr>
@@ -88,10 +47,7 @@
 <h2>𝐆𝐢𝐭𝐇𝐮𝐛 :octocat:</h2>
 
 <p align="center">
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg"
-  >
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <hr>
@@ -100,7 +56,7 @@
 
 <ul>
   <li>🧠 Learning to program is the best tool for thinking.</li>
-</ul>
+<ul>
 
 <hr>
 
@@ -108,41 +64,16 @@
 
 <table>
   <tr>
-    <td>
-      <img
-        src="https://skillicons.dev/icons?i=discord"
-        width="25"
-        alt="Discord"
-      >
-    </td>
-    <td>
-      <b>lilbossgrim777</b>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=discord" width="25" /></td>
+    <td><b>lilbossgrim777</b></td>
   </tr>
-
   <tr>
-    <td>
-      <img
-        src="https://skillicons.dev/icons?i=gmail"
-        width="25"
-        alt="Gmail"
-      >
-    </td>
-    <td>
-      <a href="">Email</a>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=gmail" width="25" /></td>
+    <td><a href=""></a></td>
   </tr>
-
   <tr>
-    <td>
-      <img
-        src="https://skillicons.dev/icons?i=linkedin"
-        width="25"
-        alt="LinkedIn"
-      >
-    </td>
-    <td>
-      <a href="">LinkedIn</a>
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=linkedin" width="25" /></td>
+    <td><a href="">LinkedIn</a></td>
   </tr>
 </table>
+</p> aki esta mira
