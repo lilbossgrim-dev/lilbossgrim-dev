@@ -76,4 +76,4 @@
     <td><a href="">LinkedIn</a></td>
   </tr>
 </table>
-</p> aki esta mira
+</p>
