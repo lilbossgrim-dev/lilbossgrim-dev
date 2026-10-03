@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/56Iqgxf1nX8AAAAd/beyonder-the-beyond-verse.gif"
+    src="./assets/beyonder.gif"
     alt="Beyonder The Beyond Verse"
     width="498"
   >
