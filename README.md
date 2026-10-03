@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://media1.tenor.com/m/56Iqgxf1nX8AAAAd/ghostemane-mercury.gif"
-    alt="Ghostemane Mercury"
+    src="https://media1.tenor.com/m/56Iqgxf1nX8AAAAd/beyonder-the-beyond-verse.gif"
+    alt="Beyonder The Beyond Verse"
     width="498"
   >
 </p>
