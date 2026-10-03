@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/beyonder.gif"
+    src="https://tenor.com/es-419/view/beyonder-the-beyond-verse-gif-27557805062780326"
     alt="Beyonder The Beyond Verse"
     width="498"
   >
