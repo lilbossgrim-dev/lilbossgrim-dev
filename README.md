@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=discord" width="25" /></td>
-    <td><b>lilbossgrim777</b></td>
+    <td><b>lilg19_</b></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=gmail" width="25" /></td>
